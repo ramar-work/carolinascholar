@@ -8,8 +8,8 @@ return {
 		["login"] = { 
 			model="login-manager"
 		},
-		stub = {
-			[":id=number"] = { model="recipe",view="recipe" },
+		["search"] = { 
+			model="search-manager"
 		},
 	}	
 }
